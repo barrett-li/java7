@@ -8,8 +8,10 @@
 7 简化可变参数方法调用。 
 
 20170526：下面这点也很重要
-NIO2的一些新特性
 
+NIO2的一些新特性
+并发工具增强 
+Networking增强
 
  //创建List接口对象
     List<String> list=new ArrayList<String>();
